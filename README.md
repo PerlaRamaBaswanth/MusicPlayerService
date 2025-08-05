@@ -24,21 +24,6 @@
 
 ---
 
-## 📁 Project Structure
-MusicPlayerService/
-├── Models/
-│ └── Song.swift
-├── Services/
-│ └── MusicPlayerService.swift
-├── ViewModels/
-│ └── MusicPlayerViewModel.swift
-├── Views/
-│ └── PlayerView.swift
-├── MusicPlayerServiceApp.swift
-└── Assets.xcassets/
-└── local_song.mp3
-└── track2.mp3
-
 
 ---
 
